@@ -4,7 +4,7 @@ Simple trigonometry calculator app made with C++.
 
 ## How To Use
 
-1. Clone/download whole repository, or only download TrigoCalc.exe.
+1. Clone/download whole repository, or only TrigoCalc.exe.
 2. Double-click TrigoCalc.exe to run.
 3. Key in choices of commands letter.
 4. Press Enter to execute command.
