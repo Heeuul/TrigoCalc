@@ -11,9 +11,10 @@ Simple trigonometry calculator app made with C++.
 
 ### Options
 
-M - Switch calculator mode between Degree and Radians
-P - Set precision of decimal numbers for calculation result
-U - Use the calculator with set mode and precision
-
-H - Display help
-E - Close and exit the app
+| Key | Function | 
+| --- | ---| 
+| M | Switch calculator mode between Degree and Radians | 
+| P | Set precision of decimal numbers for calculation result | 
+| U | Use the calculator with set mode and precision | 
+| H | Display help | 
+| E | Close and exit the app | 
